@@ -1,3 +1,3 @@
 # kryptex.github.io
 Kryptex
-7@1
+7@12
