@@ -1,3 +1,4 @@
-# kryptex.github.io
+# kryptex
+https://tonyojelel.github.io/kryptex/
 Kryptex
 #567
