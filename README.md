@@ -1,4 +1,4 @@
 # kryptex
 https://tonyojelel.github.io/kryptex/
 Kryptex
-#12bdt
+#12bdt2
