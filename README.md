@@ -1,5 +1,4 @@
 # kryptex
 https://tonyojelel.github.io/kryptex/
 Kryptex
-#15bwdkjvghtyhnmhhj
-bn
+#15bwdkjv8976
